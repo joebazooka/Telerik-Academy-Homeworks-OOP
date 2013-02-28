@@ -1,0 +1,5 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Divisible\bin\Debug\Divisible.exe.config
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Divisible\bin\Debug\Divisible.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Divisible\bin\Debug\Divisible.pdb
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Divisible\obj\Debug\Divisible.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Divisible\obj\Debug\Divisible.pdb

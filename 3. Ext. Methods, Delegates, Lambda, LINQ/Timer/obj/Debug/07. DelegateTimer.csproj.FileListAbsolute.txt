@@ -1,0 +1,6 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Timer\obj\Debug\07. DelegateTimer.csprojResolveAssemblyReference.cache
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Timer\bin\Debug\Timer.exe.config
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Timer\bin\Debug\Timer.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Timer\bin\Debug\Timer.pdb
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Timer\obj\Debug\Timer.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Timer\obj\Debug\Timer.pdb

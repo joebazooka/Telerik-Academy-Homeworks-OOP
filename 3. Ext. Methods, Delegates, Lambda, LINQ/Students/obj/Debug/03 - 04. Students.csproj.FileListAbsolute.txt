@@ -1,0 +1,6 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Students\bin\Debug\Students.exe.config
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Students\bin\Debug\Students.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Students\bin\Debug\Students.pdb
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Students\obj\Debug\03 - 04. Students.csprojResolveAssemblyReference.cache
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Students\obj\Debug\Students.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Students\obj\Debug\Students.pdb

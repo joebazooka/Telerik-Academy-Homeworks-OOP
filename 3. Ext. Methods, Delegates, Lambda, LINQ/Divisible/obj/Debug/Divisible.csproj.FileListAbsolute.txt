@@ -1,0 +1,1 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\3. Ext. Methods, Delegates, Lambda, LINQ\Divisible\bin\Debug\Divisible.exe.config
