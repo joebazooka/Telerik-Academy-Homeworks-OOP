@@ -1,0 +1,6 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Shapes\bin\Debug\Shapes.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Shapes\bin\Debug\Shapes.pdb
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Shapes\obj\Debug\01. Shapes.csprojResolveAssemblyReference.cache
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Shapes\obj\Debug\Shapes.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,6 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Bank\bin\Debug\Bank.exe.config
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Bank\bin\Debug\Bank.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Bank\bin\Debug\Bank.pdb
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Bank\obj\Debug\02. Bank.csprojResolveAssemblyReference.cache
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Bank\obj\Debug\Bank.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Bank\obj\Debug\Bank.pdb

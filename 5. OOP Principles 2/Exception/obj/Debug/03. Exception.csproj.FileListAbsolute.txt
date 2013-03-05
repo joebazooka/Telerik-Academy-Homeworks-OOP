@@ -1,0 +1,6 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Exception\bin\Debug\Exception.exe.config
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Exception\bin\Debug\Exception.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Exception\bin\Debug\Exception.pdb
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Exception\obj\Debug\03. Exception.csprojResolveAssemblyReference.cache
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Exception\obj\Debug\Exception.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\5. OOP Principles 2\Exception\obj\Debug\Exception.pdb
