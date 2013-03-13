@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. School OOP UML", "School OOP UML\01. School OOP UML.csproj", "{60D343CC-4B34-469F-942F-0019B03C1D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Humans", "Humans\02. Humans.csproj", "{36078AAD-3BDD-4473-A39D-36707DDF31D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Animals", "Animals\03. Animals.csproj", "{DAA44749-31A4-4075-B3A9-4EFA5486C4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D343CC-4B34-469F-942F-0019B03C1D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D343CC-4B34-469F-942F-0019B03C1D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D343CC-4B34-469F-942F-0019B03C1D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D343CC-4B34-469F-942F-0019B03C1D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36078AAD-3BDD-4473-A39D-36707DDF31D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36078AAD-3BDD-4473-A39D-36707DDF31D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36078AAD-3BDD-4473-A39D-36707DDF31D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36078AAD-3BDD-4473-A39D-36707DDF31D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA44749-31A4-4075-B3A9-4EFA5486C4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA44749-31A4-4075-B3A9-4EFA5486C4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA44749-31A4-4075-B3A9-4EFA5486C4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA44749-31A4-4075-B3A9-4EFA5486C4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

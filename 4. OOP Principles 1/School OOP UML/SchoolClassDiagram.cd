@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="School_OOP_UML.Class" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3" Width="2" />
+    <AssociationLine Name="Student" Type="School_OOP_UML.Student" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4" Y="4.312" />
+        <Point X="2.688" Y="4.312" />
+        <Point X="2.688" Y="6.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.796" Y="0.092" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Teacher" Type="School_OOP_UML.Teacher" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6" Y="4.5" />
+        <Point X="8.312" Y="4.5" />
+        <Point X="8.312" Y="6.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.829" Y="0.103" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAcAAAAEQAAAgAAAAAAAAAAAAAAAAAAAAAAAAgACAgI=</HashCode>
+      <FileName>Class.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Student" />
+      <Property Name="Teacher" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="School_OOP_UML.Discipline" BaseTypeListCollapsed="true">
+    <Position X="7" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAABAAAIAAAASAAAAEAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Discipline.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="School_OOP_UML.Person">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_OOP_UML.School">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <AssociationLine Name="Class" Type="School_OOP_UML.Class">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.71" Y="0.071" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAABAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>School.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Class" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="School_OOP_UML.Student">
+    <Position X="1.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="School_OOP_UML.Teacher">
+    <Position X="7" Y="6.75" Width="2.25" />
+    <AssociationLine Name="Discipline" Type="School_OOP_UML.Discipline">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.883" Y="0.049" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAIAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teacher.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Discipline" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="School_OOP_UML.IComment" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IComment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

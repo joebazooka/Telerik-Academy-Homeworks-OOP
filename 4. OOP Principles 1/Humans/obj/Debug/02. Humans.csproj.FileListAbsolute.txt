@@ -1,0 +1,5 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Humans\bin\Debug\Humans.exe.config
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Humans\bin\Debug\Humans.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Humans\bin\Debug\Humans.pdb
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Humans\obj\Debug\Humans.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Humans\obj\Debug\Humans.pdb

@@ -1,0 +1,6 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\School OOP UML\bin\Debug\School OOP UML.exe.config
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\School OOP UML\bin\Debug\School OOP UML.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\School OOP UML\bin\Debug\School OOP UML.pdb
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\School OOP UML\obj\Debug\01. School OOP UML.csprojResolveAssemblyReference.cache
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\School OOP UML\obj\Debug\School OOP UML.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\School OOP UML\obj\Debug\School OOP UML.pdb

@@ -1,0 +1,6 @@
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Animals\bin\Debug\Animals.exe.config
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Animals\obj\Debug\03. Animals.csprojResolveAssemblyReference.cache
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Animals\bin\Debug\Animals.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Animals\bin\Debug\Animals.pdb
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Animals\obj\Debug\Animals.exe
+C:\Users\HAXVY\Desktop\Telerik\ACADEMY\C#\OOP\4. OOP Principles 1\Animals\obj\Debug\Animals.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Attribute
 {
-    [Version("2.11")]
+    [Version("2.11.")]
     class Program
     {
         static void Main(string[] args)
